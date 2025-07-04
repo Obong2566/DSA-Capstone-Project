@@ -3,7 +3,7 @@ My first project on Data Analysis
 ## Project Overview
  This is a RetailTech Insights, a company that provides
 e-commerce analytics solutions to sellers on platforms like Amazon. As a Junior Data Analyst, i have been
-tasked with analysing product and customer review data to generate insights that can
+tasked with analysing product & customer review data to generate insights that can
 guide product improvement, marketing strategies, & customer engagement. The goal is to use my cleaned dataset and pivot outputs, to build an Excel dashboard.
 ## Analysis Tools
    Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
