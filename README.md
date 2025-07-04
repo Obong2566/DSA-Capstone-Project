@@ -1,4 +1,4 @@
-# DSA-Capstone-Project
+# DSA-Capstone-Project-Excel-Case-Study
 My first project on Data Analysis
 ## Project Overview
  This is a RetailTech Insights, a company that provides
